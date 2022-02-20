@@ -22,7 +22,7 @@ export default function DescribeHealthProblem() {
               id="demo-simple-select"
               label="Age"
             >
-              <MenuItem value={10}>Ορθοπαιδικό</MenuItem>
+              <MenuItem value={10}>Ορθοπεδικό</MenuItem>
               <MenuItem value={20}>Παθολογικό</MenuItem>
               <MenuItem value={30}>Καρδιακό</MenuItem>
             </Select>
